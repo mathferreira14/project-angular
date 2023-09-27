@@ -2,6 +2,7 @@
   "name": "angular-blog",
   "version": "0.0.0",
   "scripts": {
+    "deploy:ghdocs": "ng build --configuration=production --output-path docs --base-href /project-angular/",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
