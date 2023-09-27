@@ -1,0 +1,16 @@
+.container-menu-title h1 {
+    margin: 15px 0;
+    font-size: 85px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Pixelify Sans', cursive;
+    color: #481370;
+    text-shadow: 0 0 16px #481370;;
+    
+}
+
+.container-menu-title hr {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+

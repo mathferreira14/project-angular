@@ -1,0 +1,14 @@
+@media screen and (max-width:767px){
+
+    .container-menu-title h1 {
+        margin: 15px 0;
+        font-size: 35px;
+        display: flex;
+        justify-content: center;
+        font-family: 'Pixelify Sans', cursive;
+        color: #481370;
+        text-shadow: 0 0 16px #481370;;
+        
+    }
+
+}
